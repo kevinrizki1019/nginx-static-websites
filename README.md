@@ -13,3 +13,9 @@ Use the dig command to verify the DNS records.|
 Using DNS verify the website setup.|
 Create a Letsencryp certificate for the DNS and configure it on the Nginx server.|
 Validate the website SSL using the OpenSSL utility.|
+
+# TODO
+
+- [x] Deploy sample static website from template to Nginx local server.
+
+- [ ] Create templating engine to website data (using config file in json then render it into html)
